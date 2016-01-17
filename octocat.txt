@@ -1,4 +1,4 @@
 A Tale of Two Octocats
 
-testing git with https push and credential caching
+testing git
 
